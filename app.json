@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "auto-care-2023",
+    "slug": "noone",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "c310ae8a-938e-4b6e-b6c4-09da62fbe9d4"
+      }
+    },
+    "owner": "tolotra301"
+  }
+}
